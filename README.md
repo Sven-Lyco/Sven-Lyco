@@ -1,20 +1,22 @@
 ## Hi there, I'm Sven 👋
 
-Currently I am a student in a bootcamp for web development at [neuefische school and pool for digital talent](https://www.neuefische.de/).
+I am a student for web development at [neuefische bootcamp for coding](https://www.neuefische.de/) since january 31st 2022.
 
----------------
-### My Skills
-currently basic skills on:
+------------------------
+![Sven-Lyco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sven-Lyco&show_icons=true&theme=github_dark&hide_border=true)
 
-- HTML / CSS
-- JavaScript
-- Git/Hub
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sven-Lyco&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sven-Lyco's github stats](https://github-readme-stats.vercel.app/api?username=Sven-Lyco)](https://github.com/anuraghazra/github-readme-stats)
 
 ------------------------
 ### Things I really like
-- Listen to music on [Spotify](https://open.spotify.com/user/31q5bs2ses7smz2ou5rppcc5okka?si=8f709c8396d1410d)
+- 🚴🏼‍♂️ bicycling
+- ⛱ Spend time by the sea and beach
+- 🕹 Gaming on PC and PS 4
+- 🔊 Listen to music on [Spotify](https://open.spotify.com/user/31q5bs2ses7smz2ou5rppcc5okka?si=8f709c8396d1410d)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q5bs2ses7smz2ou5rppcc5okka&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 <!--
