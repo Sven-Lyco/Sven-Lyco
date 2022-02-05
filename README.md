@@ -1,8 +1,7 @@
 [![MasterHead](/header.png)](https://github.com/Sven-Lyco/Sven-Lyco/main)
 
-<p align="center">
-  I am a student for web development at [neuefische bootcamp for coding](https://www.neuefische.de/) since january 31st 2022.
-</p>
+
+I am a student for web development at [neuefische bootcamp for coding](https://www.neuefische.de/) since january 31st 2022.
 
 ------------------------
 ![Sven-Lyco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sven-Lyco&show_icons=true&theme=github_dark&hide_border=true)
