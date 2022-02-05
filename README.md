@@ -1,12 +1,16 @@
-## Hi there, I'm Sven 👋
+[![MasterHead](/header.png)](https://github.com/Sven-Lyco/Sven-Lyco/main)
 
-I am a student for web development at [neuefische bootcamp for coding](https://www.neuefische.de/) since january 31st 2022.
+<p align="center">
+  I am a student for web development at [neuefische bootcamp for coding](https://www.neuefische.de/) since january 31st 2022.
+</p>
 
 ------------------------
 ![Sven-Lyco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sven-Lyco&show_icons=true&theme=github_dark&hide_border=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sven-Lyco&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=4A8DDA)](https://git.io/streak-stats)
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sven-Lyco&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sven-Lyco&layout=compact&theme=github_dark&hide_border=true">
+</p>
 
 ------------------------
 ### Things I really like
