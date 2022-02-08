@@ -1,9 +1,9 @@
-[![MasterHead](/header.png)](https://github.com/Sven-Lyco/Sven-Lyco/main)
-
+[![MasterHead](/images/header.png)](https://github.com/Sven-Lyco/Sven-Lyco/main)
 
 #### I'm a student at [neuefische bootcamp for coding](https://www.neuefische.de/) since january 31st 2022 to become a web developer.
 
 ### Things I really like
+
 - 🚴🏼‍♂️ bicycling
 - ⛱ Spend time by the sea and beach
 - 🕹 Gaming on PC and PS 4
@@ -11,7 +11,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q5bs2ses7smz2ou5rppcc5okka&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
------
+---
 
 <h2 align="center">
   My Github Stats
@@ -25,7 +25,6 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=Sven-Lyco&show_icons=true&theme=github_dark&hide_border=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sven-Lyco&layout=compact&theme=github_dark&hide_border=true">
 </p>
-
 
 <!--
 **Sven-Lyco/Sven-Lyco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
