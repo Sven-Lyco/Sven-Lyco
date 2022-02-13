@@ -31,7 +31,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/Sven-lyco/Sven-lyco/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Sven-lyco/Sven-lyco/blob/create-snake/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <!--
