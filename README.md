@@ -35,7 +35,7 @@
 </p>
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/Sven-Lyco/count.svg)
+![](https://profile-counter.glitch.me/Sven-Lyco/count.svg)
 
 <!--
 **Sven-Lyco/Sven-Lyco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
