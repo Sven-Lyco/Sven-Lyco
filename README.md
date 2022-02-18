@@ -34,7 +34,7 @@
   <img src="https://github.com/Sven-lyco/Sven-lyco/blob/create-snake/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
----
+-----
 ![](https://profile-counter.glitch.me/Sven-Lyco/count.svg)
 
 <!--
