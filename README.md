@@ -1,4 +1,7 @@
-[![MasterHead](/images/header.png)](https://github.com/Sven-Lyco/Sven-Lyco/main)
+
+<h2> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Sven</h2>
+
+<!--[![MasterHead](/images/header.png)](https://github.com/Sven-Lyco/Sven-Lyco/main)-->
 
 #### I'm a student at [neuefische bootcamp for coding](https://www.neuefische.de/) since january 31st 2022 to become a web developer.
 
