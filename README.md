@@ -1,12 +1,12 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Sven</h1>
 <span>🧑‍💻 I'm from Hamburg, Germany and I'm a student at<a href="https://www.neuefische.de/"> neuefische </a>to become a web developer.</span>
-</br>
+<br/>
+<br/>
 <ul>
   <li>🌱  I’m currently learning React</li>
   <!--<li>🚀  Now working as/on Junior Web Developer/Capstone Project</li>-->
   <li>📫  Find me on <a href="https://www.linkedin.com/in/sven-luechow/">Linkedin</a></li>
 </ul>
-</br>
 <h2 align="center">Languages & Tools</h2>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="center" width="40"></a>
@@ -19,7 +19,7 @@
   <a href="https://storybook.js.org/"><img alt="Storybook" src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm_400x400.png" align="center" width="40"></a>
   <a href="https://nodejs.org/en/about/"><img alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" align="center" width="40"></a>
 </p>
-</br>
+<br/>
 <h2 align="center">My Github Stats</h2>
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Sven-Lyco&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=4A8DDA" />
@@ -28,7 +28,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=Sven-Lyco&show_icons=true&theme=github_dark&hide_border=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sven-Lyco&layout=compact&theme=github_dark&hide_border=true">
 </p>
-</br>
+<br/>
 <h2 align="center">
   My Contributiongraph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="40">
 </h2>
