@@ -9,7 +9,6 @@
 </ul>
 </br>
 <h2 align="center">Languages & Tools</h2>
-<hr>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="center" width="40"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="center" width="40"></a>
@@ -23,7 +22,6 @@
 </p>
 </br>
 <h2 align="center">My Github Stats</h2>
-<hr>
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Sven-Lyco&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=4A8DDA" />
 </p>
