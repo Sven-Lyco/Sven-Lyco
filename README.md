@@ -1,7 +1,6 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Sven</h1>
 <span>🧑‍💻 I'm from Hamburg, Germany and I'm a student at<a href="https://www.neuefische.de/"> neuefische </a>to become a web developer.</span>
 </br>
-</br>
 <ul>
   <li>🌱  I’m currently learning React</li>
   <!--<li>🚀  Now working as/on Junior Web Developer/Capstone Project</li>-->
