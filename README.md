@@ -17,7 +17,7 @@
   <a href="https://github.com"><img alt="GitHub" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202098codedevelopergithublogo-115590_115711.png" align="center" width="40"></a>
   <a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" align="center" width="40"></a>
   <a href="https://storybook.js.org/"><img alt="Storybook" src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm_400x400.png" align="center" width="40"></a>
-  <a href="https://nodejs.org/en/about/"><img alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" align="center" width="40"></a>
+  <!--<a href="https://nodejs.org/en/about/"><img alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" align="center" width="40"></a>-->
 </p>
 <br/>
 <h2 align="center">My Github Stats</h2>
