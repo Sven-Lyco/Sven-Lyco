@@ -4,7 +4,8 @@
 <br/>
 <ul>
   <li>🌱  I’m currently learning React</li>
-  <!--<li>🚀  Now working as/on Junior Web Developer/Capstone Project</li>-->
+  <li>🚀  I’m working on my Capstone Project called <a href="https://github.com/Sven-Lyco/capstone-project"> WATCHA </a></li>
+  <!--<li>🚀  I’m currentlyNow working as/on Junior Web Developer/Capstone Project</li>-->
   <li>📫  Find me on <a href="https://www.linkedin.com/in/sven-luechow/">Linkedin</a></li>
 </ul>
 <h2 align="center">Languages & Tools</h2>
