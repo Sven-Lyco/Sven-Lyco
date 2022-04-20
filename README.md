@@ -1,13 +1,23 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Sven</h1>
-<span>🧑‍💻 I'm from Hamburg, Germany and I'm a student at<a href="https://www.neuefische.de/"> neuefische </a>to become a web developer.</span>
-<br/>
-<br/>
+<p>🧑‍💻 I'm from Hamburg, Germany and I'm a student at<a href="https://www.neuefische.de/"> neuefische </a>to become a web developer.</p>
+<p>🌱  I’m currently learning React.</p>
+<p>🚀  I’m working on my Capstone Project called <a href="https://github.com/Sven-Lyco/capstone-project"> WATCHA </a></p>
+<!--<span>🚀  I’m currentlyNow working as/on Junior Web Developer/Capstone Project</span>-->
+<p>📫  Find me on <a href="https://www.linkedin.com/in/sven-luechow/">Linkedin</a></p>
+
+ 
+<h3 align="left">Things I also like</h2>
 <ul>
-  <li>🌱  I’m currently learning React</li>
-  <li>🚀  I’m working on my Capstone Project called <a href="https://github.com/Sven-Lyco/capstone-project"> WATCHA </a></li>
-  <!--<li>🚀  I’m currentlyNow working as/on Junior Web Developer/Capstone Project</li>-->
-  <li>📫  Find me on <a href="https://www.linkedin.com/in/sven-luechow/">Linkedin</a></li>
- </ul>
+  <li>🚴🏼‍♂️ bicycling</li>
+  <li>⛱ Spend time by the sea and beach</li>
+  <li>🕹 Gaming on PC and PS 4</li>
+  <li>🔊 Listen to music on <a href="https://open.spotify.com/user/31q5bs2ses7smz2ou5rppcc5okka?si=8f709c8396d1410d">Spotify</a></li>
+</ul>
+
+<p align="left">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31q5bs2ses7smz2ou5rppcc5okka&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
+</p>
+
 <h2 align="center">Languages & Tools</h2>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="center" width="40"></a>
@@ -37,23 +47,14 @@
 <p align="center">
   <img src="https://github.com/Sven-lyco/Sven-lyco/blob/create-snake/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
 <hr>
 
 ![](https://profile-counter.glitch.me/Sven-Lyco/count.svg)
 
 ![](https://hit.yhype.me/github/profile?user_id=98020906)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q5bs2ses7smz2ou5rppcc5okka&cover_image=true&theme=default&bar_color=0066ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31q5bs2ses7smz2ou5rppcc5okka&redirect=true)
-
 <!--
-<h2>Things I also like</h2>
-<ul>
-  <li>🚴🏼‍♂️ bicycling</li>
-  <li>⛱ Spend time by the sea and beach</li>
-  <li>🕹 Gaming on PC and PS 4</li>
-  <li>🔊 Listen to music on <a href="https://open.spotify.com/user/31q5bs2ses7smz2ou5rppcc5okka?si=8f709c8396d1410d">Spotify</a></li>
-</ul>
-
 <a href="https://heroku.com"><img alt="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" align="left" width="40"></a>
 
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" align="center" width="40"></a>
