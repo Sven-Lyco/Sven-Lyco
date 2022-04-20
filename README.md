@@ -7,7 +7,7 @@
   <li>🚀  I’m working on my Capstone Project called <a href="https://github.com/Sven-Lyco/capstone-project"> WATCHA </a></li>
   <!--<li>🚀  I’m currentlyNow working as/on Junior Web Developer/Capstone Project</li>-->
   <li>📫  Find me on <a href="https://www.linkedin.com/in/sven-luechow/">Linkedin</a></li>
-</ul>
+ </ul>
 <h2 align="center">Languages & Tools</h2>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="center" width="40"></a>
@@ -43,6 +43,10 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=98020906)
 
+<p>I am listening right now:</p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q5bs2ses7smz2ou5rppcc5okka&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 <h2>Things I also like</h2>
 <ul>
@@ -51,8 +55,6 @@
   <li>🕹 Gaming on PC and PS 4</li>
   <li>🔊 Listen to music on <a href="https://open.spotify.com/user/31q5bs2ses7smz2ou5rppcc5okka?si=8f709c8396d1410d">Spotify</a></li>
 </ul>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q5bs2ses7smz2ou5rppcc5okka&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <a href="https://heroku.com"><img alt="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" align="left" width="40"></a>
 
