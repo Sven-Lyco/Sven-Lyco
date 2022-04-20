@@ -43,9 +43,7 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=98020906)
 
-<p>I am listening right now:</p>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q5bs2ses7smz2ou5rppcc5okka&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q5bs2ses7smz2ou5rppcc5okka&cover_image=true&theme=default&bar_color=0066ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31q5bs2ses7smz2ou5rppcc5okka&redirect=true)
 
 <!--
 <h2>Things I also like</h2>
