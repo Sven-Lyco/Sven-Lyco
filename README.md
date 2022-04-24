@@ -3,7 +3,7 @@
 <p>🌱  I’m currently learning React.</p>
 <p>🚀  I’m working on my Capstone Project called <a href="https://github.com/Sven-Lyco/capstone-project"> WATCHA </a></p>
 <!--<span>🚀  I’m currentlyNow working as/on Junior Web Developer/Capstone Project</span>-->
-<p>📫  Find me on <a href="https://www.linkedin.com/in/sven-luechow/">Linkedin</a></p>
+<p>📫 How to reach me: <a href="https://www.linkedin.com/in/sven-luechow/">LinkedIn</a></p>
 
  
 <h3 align="left">Things I also like</h2>
@@ -24,13 +24,16 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="center" width="40"></a>
   <a href="https://developer.mozilla.org/de/docs/Web/JavaScript"><img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="center" width="40"></a>
   <a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" align="center" width="40"></a>
+ <a href="https://jestjs.io"> <img alt="jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" align="center" width="40"/> </a> 
   <a href="https://git-scm.com/"><img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="center" width="40"></a>
   <a href="https://github.com"><img alt="GitHub" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202098codedevelopergithublogo-115590_115711.png" align="center" width="40"></a>
   <a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" align="center" width="40"></a>
   <a href="https://storybook.js.org/"><img alt="Storybook" src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm_400x400.png" align="center" width="40"></a>
-  <a href="https://nodejs.org/en/about/"><img alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" align="center" width="40"></a>
-  <a href="https://www.mongodb.com/"><img alt="MongoSB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" align="center" width="40"></a>
+ <a href="https://nodejs.org/en/about/"><img alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" align="center" width="40"></a>
+ <a href="https://www.mongodb.com/"><img alt="MongoSB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" align="center" width="40"></a>
+ <a href="https://www.figma.com/"> <img alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" align="center" width="40"/> </a>
 </p>
+
 <br/>
 <h2 align="center">My Github Stats</h2>
 <p align = "center">
@@ -64,8 +67,6 @@
 -->
 
 <!--
-**Sven-Lyco/Sven-Lyco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
