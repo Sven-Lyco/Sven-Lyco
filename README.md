@@ -14,10 +14,6 @@
   <li>🔊 Listen to music on <a href="https://open.spotify.com/user/31q5bs2ses7smz2ou5rppcc5okka?si=8f709c8396d1410d">Spotify</a></li>
 </ul>
 
-<p align="left">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31q5bs2ses7smz2ou5rppcc5okka&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
-</p>
-
 <h2 align="center">Languages & Tools</h2>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="center" width="40"></a>
@@ -64,9 +60,10 @@
 
 <a href="http://expressjs.com/en/starter/installing.html"><img alt="ExpressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" align="center" width="40"></a>
 
--->
+<p align="left">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31q5bs2ses7smz2ou5rppcc5okka&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
+</p>
 
-<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
