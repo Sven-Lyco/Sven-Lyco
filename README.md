@@ -3,7 +3,7 @@
 <p>🌱 I’m currently learning React and continue working on my Capstone Project called <a href="https://github.com/Sven-Lyco/capstone-project"> WATCHA </a></p>
 <p>🖥 I’m looking for a job as a junior web developer</p>
 <!--<span>🚀  I’m currentlyNow working as/on Junior Web Developer/Capstone Project</span>-->
-<p>📫 How to reach me: <a href="https://www.linkedin.com/in/sven-luechow/">LinkedIn</a></p>
+<p>📫 Feel free to contact me on: <a href="https://www.linkedin.com/in/sven-luechow/">LinkedIn</a></p>
 
  
 <h3 align="left">Things I also like</h2>
