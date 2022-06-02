@@ -1,4 +1,4 @@
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Sven</h1>
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">,  I'm Sven</h1>
 <p>🧑‍💻 I'm from Hamburg, Germany and a recent graduate from the Web Development Bootcamp at <a href="https://www.neuefische.de/"> neuefische. </a></p>
 <p>🌱 I’m currently learning React and continue working on my Capstone Project called <a href="https://github.com/Sven-Lyco/capstone-project"> WATCHA </a></p>
 <p>🖥 I’m looking for a job as a junior web developer</p>
