@@ -1,11 +1,9 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">,  I'm Sven</h1>
 <p>🧑‍💻 I'm from Hamburg, Germany and a recent graduate from the Web Development Bootcamp at <a href="https://www.neuefische.de/"> neuefische. </a></p>
-<p>🌱 I’m currently learning React and continue working on my Capstone Project called <a href="https://github.com/Sven-Lyco/capstone-project"> WATCHA </a></p>
+<p>🌱 I’m currently learning React and TypeScript</p>
 <p>🖥 I’m looking for a job as a junior web developer</p>
-<!--<span>🚀  I’m currently/now working as Junior Web Developer</span>-->
 <p>📫 Feel free to contact me on: <a href="https://www.linkedin.com/in/sven-luechow/">LinkedIn</a></p>
 
- 
 <h3 align="left">Things I also like</h2>
 <ul>
   <li>🚴🏼‍♂️ bicycling</li>
@@ -19,6 +17,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="center" width="40"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="center" width="40"></a>
   <a href="https://developer.mozilla.org/de/docs/Web/JavaScript"><img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="center" width="40"></a>
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" align="center" width="40"></a>
   <a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" align="center" width="40"></a>
  <a href="https://jestjs.io"> <img alt="jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" align="center" width="40"/> </a> 
   <a href="https://git-scm.com/"><img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="center" width="40"></a>
@@ -54,10 +53,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=98020906)
 
 <!--
-<a href="https://heroku.com"><img alt="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" align="left" width="40"></a>
-
-<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" align="center" width="40"></a>
-
 <a href="http://expressjs.com/en/starter/installing.html"><img alt="ExpressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" align="center" width="40"></a>
 
 <p align="left">
