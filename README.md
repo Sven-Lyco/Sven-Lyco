@@ -1,7 +1,7 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">,  I'm Sven</h1>
 <p>🧑‍💻 I'm from Hamburg, Germany.</p>
 <p>💻 I learned the basics of coding at the web development bootcamp at <a href="https://www.neuefische.de/"> neuefische</a> at the beginning of 2022. Feel free to check out my capstone-project called <a href="https://github.com/Sven-Lyco/capstone-project">WATCHA</a></p>
-<p>🌱 I’m currently learning React and TypeScript</p>
+<!-- <p>🌱 I’m currently learning React and TypeScript</p> -->
 <p>📫 Feel free to contact me on: <a href="https://www.linkedin.com/in/sven-luechow/">LinkedIn</a></p>
 
 <h3 align="left">Things I also like</h2>
