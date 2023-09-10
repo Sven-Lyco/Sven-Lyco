@@ -1,16 +1,6 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">,  I'm Sven</h1>
 <p>🧑‍💻 I'm from Hamburg, Germany.</p>
 <p>💻 I learned the basics of coding at the web development bootcamp at <a href="https://www.neuefische.de/"> neuefische</a> at the beginning of 2022. Feel free to check out my capstone-project called <a href="https://github.com/Sven-Lyco/capstone-project">WATCHA</a></p>
-<!-- <p>🌱 I’m currently learning React and TypeScript</p> -->
-<p>📫 Feel free to contact me on: <a href="https://www.linkedin.com/in/sven-luechow/">LinkedIn</a></p>
-
-<h3 align="left">Things I also like</h2>
-<ul>
-  <li>🚴🏼‍♂️ bicycling</li>
-  <li>⛱ Spend time by the sea and beach</li>
-  <li>🕹 Gaming on PC and PS 4</li>
-  <li>🔊 Listen to music on <a href="https://open.spotify.com/user/31q5bs2ses7smz2ou5rppcc5okka?si=8f709c8396d1410d">Spotify</a></li>
-</ul>
 
 <p align="left">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31q5bs2ses7smz2ou5rppcc5okka&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
@@ -55,7 +45,3 @@
 ![](https://profile-counter.glitch.me/Sven-Lyco/count.svg)
 
 ![](https://hit.yhype.me/github/profile?user_id=98020906)
-
-<!--
-<a href="http://expressjs.com/en/starter/installing.html"><img alt="ExpressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" align="center" width="40"></a>
--->
