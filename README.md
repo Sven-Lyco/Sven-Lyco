@@ -3,10 +3,6 @@
 <p>🧑‍💻 I'm from Hamburg, Germany.</p>
 <p>💻 I learned the basics of coding at the web development bootcamp at <a href="https://www.neuefische.de/"> neuefische</a> at the beginning of 2022. Feel free to check out my capstone-project called <a href="https://github.com/Sven-Lyco/capstone-project">WATCHA</a></p>
 
-
-<p align="left">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31q5bs2ses7smz2ou5rppcc5okka&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
-</p>
 -->
 
 <h2 align="center">Languages & Tools</h2>
@@ -48,3 +44,7 @@
 ![](https://profile-counter.glitch.me/Sven-Lyco/count.svg)
 
 ![](https://hit.yhype.me/github/profile?user_id=98020906)
+
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31q5bs2ses7smz2ou5rppcc5okka&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31q5bs2ses7smz2ou5rppcc5okka&redirect=true)
