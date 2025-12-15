@@ -1,9 +1,3 @@
-<!-- 
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">,  I'm Sven</h1>
-<p>🧑‍💻 I'm from Hamburg, Germany.</p>
-<p>💻 I learned the basics of coding at the web development bootcamp at <a href="https://www.neuefische.de/"> neuefische</a> at the beginning of 2022. Feel free to check out my capstone-project called <a href="https://github.com/Sven-Lyco/capstone-project">WATCHA</a></p>
-
--->
 
 <h2 align="center">Languages & Tools</h2>
 <p align="center">
@@ -31,6 +25,8 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=Sven-Lyco&show_icons=true&theme=github_dark&hide_border=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sven-Lyco&layout=compact&theme=github_dark&hide_border=true">
 </p>
+
+<!--
 <br/>
 <h2 align="center">
   My Contributiongraph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="40">
@@ -38,13 +34,9 @@
 <p align="center">
   <img src="https://github.com/Sven-lyco/Sven-lyco/blob/create-snake/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+-->
 
-<hr>
-
-![](https://profile-counter.glitch.me/Sven-Lyco/count.svg)
-
-![](https://hit.yhype.me/github/profile?user_id=98020906)
-
-
-
+<!--
+Spotify current listening
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31q5bs2ses7smz2ou5rppcc5okka&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31q5bs2ses7smz2ou5rppcc5okka&redirect=true)
+-->
